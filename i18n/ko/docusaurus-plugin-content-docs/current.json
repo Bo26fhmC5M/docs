@@ -1,0 +1,46 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.mySidebar.category.Installation": {
+    "message": "Installation",
+    "description": "The label for category 'Installation' in sidebar 'mySidebar'"
+  },
+  "sidebar.mySidebar.category.Cluster Datastore": {
+    "message": "Cluster Datastore",
+    "description": "The label for category 'Cluster Datastore' in sidebar 'mySidebar'"
+  },
+  "sidebar.mySidebar.category.Upgrades": {
+    "message": "Upgrades",
+    "description": "The label for category 'Upgrades' in sidebar 'mySidebar'"
+  },
+  "sidebar.mySidebar.category.Security": {
+    "message": "Security",
+    "description": "The label for category 'Security' in sidebar 'mySidebar'"
+  },
+  "sidebar.mySidebar.category.CLI Tools": {
+    "message": "CLI Tools",
+    "description": "The label for category 'CLI Tools' in sidebar 'mySidebar'"
+  },
+  "sidebar.mySidebar.category.Add-Ons": {
+    "message": "Add-Ons",
+    "description": "The label for category 'Add-Ons' in sidebar 'mySidebar'"
+  },
+  "sidebar.mySidebar.category.Networking": {
+    "message": "Networking",
+    "description": "The label for category 'Networking' in sidebar 'mySidebar'"
+  },
+  "sidebar.mySidebar.category.Reference": {
+    "message": "Reference",
+    "description": "The label for category 'Reference' in sidebar 'mySidebar'"
+  },
+  "sidebar.mySidebar.category.Release Notes": {
+    "message": "Release Notes",
+    "description": "The label for category 'Release Notes' in sidebar 'mySidebar'"
+  },
+  "sidebar.mySidebar.category.Older...": {
+    "message": "Older...",
+    "description": "The label for category 'Older...' in sidebar 'mySidebar'"
+  }
+}
